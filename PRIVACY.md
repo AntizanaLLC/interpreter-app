@@ -21,8 +21,17 @@ Antizana LLC ("we", "our", or "us") built **Interpreter - Voice Translator** as 
 
 - We do not collect your name, email, or any personal identifiers
 - We do not require account creation or login
-- We do not track you across apps or websites
-- We do not use advertising or analytics SDKs in this app
+- We do not track you across apps or websites using data we collect
+
+---
+
+## Advertising
+
+This app displays ads provided by **Google AdMob**. Google may use your device's advertising identifier (IDFA) and data about ads you have seen to show you relevant ads across apps and websites. This constitutes tracking as defined by Apple's App Tracking Transparency framework.
+
+You can limit ad tracking at any time via **Settings → Privacy & Security → Tracking** on your iPhone.
+
+For more information on how Google uses data: [policies.google.com/privacy](https://policies.google.com/privacy)
 
 ---
 
@@ -32,6 +41,7 @@ Antizana LLC ("we", "our", or "us") built **Interpreter - Voice Translator** as 
 |---------|---------|-----------|
 | MyMemory API (`api.mymemory.translated.net`) | Fallback translation when on-device translation is unavailable | Transcribed text only, anonymously |
 | Apple Translation Framework | On-device translation (iOS 26+) | Processed entirely on-device |
+| Google AdMob | In-app advertising | Device advertising identifier (IDFA), ad interaction data |
 
 ---
 
@@ -57,5 +67,5 @@ We may update this policy from time to time. Changes will be posted on this page
 
 If you have questions about this privacy policy:
 
-**Email:** support@antizana.co
+**Email:** support@antizana.co  
 **Company:** Antizana LLC
